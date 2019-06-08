@@ -1,6 +1,6 @@
 # Maintainers Anonymous ([JSHeroes](https://jsheroes.io/speakers/henry-zhu))
 
-[HTML](https://hzoo.github.io/maintainers-anonymous/) | [PDF](https://github.com/hzoo/maintainers-anonymous/blob/master/Maintainers%20Anonymous%20-%20JSHeroes.pdf) | [Links](#links) | [Podcast](https://maintainersanonymous.com) | [Video TBD]
+[HTML](https://hzoo.github.io/maintainers-anonymous/) | [PDF](https://github.com/hzoo/maintainers-anonymous/blob/master/Maintainers%20Anonymous%20-%20JSHeroes.pdf) | [Links](#links) | [Podcast](https://maintainersanonymous.com) | [Video: 26:22](https://www.youtube.com/watch?v=-BPUPNz5H70)
 
 [![](slide.png)](https://hzoo.github.io/maintainers-anonymous/)
 
